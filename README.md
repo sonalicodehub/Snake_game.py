@@ -48,3 +48,5 @@ This project demonstrates:
 * Random object generation
 * Game loop management
 * Basic object movement and rendering
+  👨‍💻 Author
+Sonali Gupta Python Developer & Technology Enthusiast 🚀
