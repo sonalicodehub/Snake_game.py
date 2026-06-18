@@ -48,5 +48,12 @@ This project demonstrates:
 * Random object generation
 * Game loop management
 * Basic object movement and rendering
+
+  
+  📜 License
+Released under the MIT License — free to use, modify, and distribute.
+
+
+
   👨‍💻 Author
 Sonali Gupta Python Developer & Technology Enthusiast 🚀
