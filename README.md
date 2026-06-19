@@ -1,4 +1,4 @@
-# Snake Game using Python & Pygame
+# Snake Game  
 
 A classic Snake Game built using Python and Pygame, where players control a growing snake to collect food while avoiding collisions with walls and its own body. The game features smooth keyboard controls, score progression through snake growth, and a game-over screen with replay functionality.
 
@@ -49,11 +49,11 @@ This project demonstrates:
 * Game loop management
 * Basic object movement and rendering
 
-  
-  📜 License
+##📜 License
 Released under the MIT License — free to use, modify, and distribute.
 
 
 
-  👨‍💻 Author
-Sonali Gupta Python Developer & Technology Enthusiast 🚀
+## 👨‍💻 Author
+Sonali Gupta 
+Python Developer & Technology Enthusiast 🚀
