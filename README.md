@@ -49,7 +49,7 @@ This project demonstrates:
 * Game loop management
 * Basic object movement and rendering
 
-##📜 License
+## 📜 License
 Released under the MIT License — free to use, modify, and distribute.
 
 
